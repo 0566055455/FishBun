@@ -7,7 +7,7 @@ import com.sangcomz.fishbun.adapter.image.ImageAdapter;
 
 import java.lang.ref.WeakReference;
 
-/////////
+//////////
 public final class FishBun {
 
     protected WeakReference<Activity> activity = null;
